@@ -1,0 +1,157 @@
+ID,Authors,Year,Country,SubRegion,Region,Habitat,Participants,Approaches,Approaches.Simple,Outcomes,Outcomes.Simple
+1,Ahammad et al,2013,Bangladesh,South Asia,Asia,Mangroves,Policy-makers,Afforestation,Ecological,Increased forest area,Ecosytem health
+1,Ahammad et al,2013,Bangladesh,South Asia,Asia,Mangroves,Local communities,Reforestation,Management and Use,Increased income,Economic
+1,Ahammad et al,2013,Bangladesh,South Asia,Asia,Mangroves,Private sector,Community-based land use,,Enhanced coastal resilience,Ecosystem functions + services
+1,Ahammad et al,2013,Bangladesh,South Asia,Asia,Mangroves,Scientists,,,Increased carbon storage,
+1,Ahammad et al,2013,Bangladesh,South Asia,Asia,Mangroves,,,,Increased agricultural products and fish,
+2,Aheto et al,2016,Ghana,West Africa,Africa,Mangroves,Local communities,Community-based land use,Management and Use,Increased income,Economic
+2,Aheto et al,2016,Ghana,West Africa,Africa,Mangroves,,,,Increased lumber,
+3,Asante et al,2017,Ghana,West Africa,Africa,Mangroves,Local communities,Joint land management,Management and Use,Improved forest health,Ecosytem health
+3,Asante et al,2017,Ghana,West Africa,Africa,Mangroves,Policy-makers,,,Implementation of sustainable practices,Sustainability
+4,Damastuti et al,2017,Indonesia,Southeast Asia,Asia,Mangroves,Policy-makers,Community-based land use,Ecological,Enhanced coastal resilience,Ecosystem functions + services
+4,Damastuti et al,2017,Indonesia,Southeast Asia,Asia,Mangroves,Local communities,Reforestation,Management and Use,Increased income,Economic
+4,Damastuti et al,2017,Indonesia,Southeast Asia,Asia,Mangroves,Private sector,,,Increased agricultural products and fish,Sustainability
+4,Damastuti et al,2017,Indonesia,Southeast Asia,Asia,Mangroves,,,,Exacerbated unsustainable activity,Social
+4,Damastuti et al,2017,Indonesia,Southeast Asia,Asia,Mangroves,,,,Increased conflict,
+5,DasGupta,2017,India,South Asia,Asia,Mangroves,Local communities,Joint land management,Management and Use,Increased income,Economic
+5,DasGupta,2017,India,South Asia,Asia,Mangroves,Policy-makers,,,Increased conflict,Social
+5,DasGupta,2017,India,South Asia,Asia,Mangroves,,,,Exacerbated unsustainable activity,Sustainability
+6,Datta,2018,India,South Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Improved forest health,Ecosytem health
+6,Datta,2018,India,South Asia,Asia,Mangroves,Private sector,,,Increased forest area,Economic
+6,Datta,2018,India,South Asia,Asia,Mangroves,Policy-makers,,,Decreased forest area,Ecosystem functions + services
+6,Datta,2018,India,South Asia,Asia,Mangroves,,,,Increased income,
+6,Datta,2018,India,South Asia,Asia,Mangroves,,,,Enhanced aesthetics,
+7,Datta et al,2012,India,South Asia,Asia,Mangroves,Policy-makers,Community-based land use,Management and Use,Enhanced coastal resilience,Ecosystem functions + services
+7,Datta et al,2012,India,South Asia,Asia,Mangroves,Private sector,Reforestation,Ecological,Improved forest health,Ecosytem health
+7,Datta et al,2012,Thailand,Southeast Asia,Asia,Mangroves,Local communities,,,Implementation of sustainable practices,Sustainability
+7,Datta et al,2012,Phillipines,Southeast Asia,Asia,Mangroves,Local communities,,,Improved forest health,
+8,Fatimatuzzahroh et al,2020,Indonesia,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased income,Economic
+8,Fatimatuzzahroh et al,2020,Indonesia,Southeast Asia,Asia,Mangroves,Policy-makers,Reforestation,Ecological,,
+9,Gallup et al,2020,Senegal,West Africa,Africa,Mangroves,Local communities,Community-based land use,Management and Use,Increased income,Economic
+9,Gallup et al,2020,Senegal,West Africa,Africa,Mangroves,Private sector,Reforestation,Ecological,,
+10,Gomez-Ruiz et al,2022,Mexico,North America,North America,Mangroves,Scientists,Reforestation,Ecological,Increased forest area,Ecosytem health
+10,Gomez-Ruiz et al,2022,Mexico,North America,North America,Mangroves,Policy-makers,Hydrological restoration,,Improved forest health,Sustainability
+10,Gomez-Ruiz et al,2022,Mexico,North America,North America,Mangroves,Local communities,,,Implementation of sustainable practices,Economic
+10,Gomez-Ruiz et al,2022,Mexico,North America,North America,Mangroves,,,,Increased income,Ecosystem functions + services
+10,Gomez-Ruiz et al,2022,Mexico,North America,North America,Mangroves,,,,Enhanced aesthetics,
+11,Greening et al,2014,United States,Northern America,North America,Seagrass meadows,Local communities,Community-based land use,Management and Use,Increased seagrass area,Ecosystem health
+11,Greening et al,2014,United States,Northern America,North America,Seagrass meadows,Policy-makers,,,Improved seagrass health,
+11,Greening et al,2014,United States,Northern America,North America,Seagrass meadows,Private sector,,,,
+12,Jones et al,2017,Thailand,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased agricultural products and fish,Economic
+12,Jones et al,2017,Thailand,Southeast Asia,Asia,Mangroves,Policy-makers,Joint land management,,Increased conflict,Social
+12,Jones et al,2017,Thailand,Southeast Asia,Asia,Mangroves,Private sector,,,,
+13,Katon et al,2000,Phillipines,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased forest area,Ecosytem health
+13,Katon et al,2000,Phillipines,Southeast Asia,Asia,Mangroves,Policy-makers,Afforestation,Ecological,Increased income,Economic
+13,Katon et al,2000,Phillipines,Southeast Asia,Asia,Mangroves,Private sector,Reforestation,,Implementation of sustainable practices,Sustainability
+14,Kongkeaw et al,2019,Thailand,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased forest area,Ecosytem health
+14,Kongkeaw et al,2019,Thailand,Southeast Asia,Asia,Mangroves,Policy-makers,Reforestation,Ecological,Increased income,Economic
+14,Kongkeaw et al,2019,Thailand,Southeast Asia,Asia,Mangroves,Private sector,,,Implementation of sustainable practices,Sustainability
+15,Miller et al,2020,Indonesia,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased income,Economic
+15,Miller et al,2020,Indonesia,Southeast Asia,Asia,Mangroves,Private sector,,,Implementation of sustainable practices,Sustainability
+16,Mills et al,2011,Fiji,Pacific Islands,Oceania,Mangroves,Local communities,Community-based land use,Management and Use,Improved forest health,Ecosystem health
+17,Nguyen et al,2016,Vietnam,Southeast Asia,Asia,Mangroves,Local communities,Reforestation,Ecological,Increased forest area,Ecosytem health
+17,Nguyen et al,2016,Vietnam,Southeast Asia,Asia,Mangroves,Policy-makers,,,Improved forest health,Ecosystem functions + services
+17,Nguyen et al,2016,Vietnam,Southeast Asia,Asia,Mangroves,,,,Enhanced coastal resilience,Economic
+17,Nguyen et al,2016,Vietnam,Southeast Asia,Asia,Mangroves,,,,Increased agricultural products and fish,
+18,Rao,2009,India,South Asia,Asia,Mangroves,Local communities,Joint land management,Management and Use,Increased forest area,Economic
+18,Rao,2009,India,South Asia,Asia,Mangroves,Policy-makers,Reforestation,Ecological,Increased income,Ecosytem health
+18,Rao,2009,India,South Asia,Asia,Mangroves,Private sector,,,Increased agricultural products and fish,Ecosystem functions + services
+18,Rao,2009,India,South Asia,Asia,Mangroves,,,,Improved forest health,
+18,Rao,2009,India,South Asia,Asia,Mangroves,,,,Enhanced coastal resilience,
+19,Rodríguez-Rodríguez et al,2021,Colombia,South America,South America,Mangroves,Local communities,Community-based land use,Management and Use,Increased forest area,Ecosystem health
+19,Rodríguez-Rodríguez et al,2021,Colombia,South America,South America,Mangroves,Policy-makers,Reforestation,Ecological,,
+19,Rodríguez-Rodríguez et al,2021,Colombia,South America,South America,Mangroves,Policy-makers,Hydrological restoration,Ecological,,
+20,Roy et al,2018,India,South Asia,Asia,Mangroves,Local communities,Afforestation,Ecological,Decreased forest area,Ecosytem health
+20,Roy et al,2018,India,South Asia,Asia,Mangroves,Policy-makers,,,Increased income,Economic
+20,Roy et al,2018,India,South Asia,Asia,Mangroves,,,,Diminished coastal resilience,Ecosystem functions + services
+20,Roy et al,2018,India,South Asia,Asia,Mangroves,,,,Exacerbated unsustainable activity,Sustainability
+21,Saunders et al,2010,Tanzania,East Africa,Africa,Mangroves,Local communities,Community-based land use,Management and Use,Decreased forest area,Ecosytem health
+21,Saunders et al,2010,Tanzania,East Africa,Africa,Mangroves,Private sector,,,Increased conflict,Social
+22,Saunders et al (2),2008,Tanzania,East Africa,Africa,Mangroves,,,,Decreased forest area,
+22,Saunders et al (2),2008,Tanzania,East Africa,Africa,Mangroves,Local communities,Community-based land use,Management and Use,Deteriorated forest health,Ecosytem health
+22,Saunders et al (2),2008,Tanzania,East Africa,Africa,Mangroves,Private sector,,,Increased conflict,Social
+23,Selvam et al,2003,India,South Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased forest area,Ecosystem health
+23,Selvam et al,2003,India,South Asia,Asia,Mangroves,Policy-makers,Reforestation,Ecological,Improved forest health,
+23,Selvam et al,2003,India,South Asia,Asia,Mangroves,Private sector,,,,
+24,Selvam et al (2),2021,India,South Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased forest area,Ecosystem health
+24,Selvam et al (2),2021,India,South Asia,Asia,Mangroves,Private sector,Reforestation,Ecological,Improved forest health,
+24,Selvam et al (2),2021,India,South Asia,Asia,Mangroves,Policy-makers,,,,
+25,Shah et al,2022,India,South Asia,Asia,Mangroves,Policy-makers,Reforestation,Ecological,Increased forest area,Ecosytem health
+25,Shah et al,2022,India,South Asia,Asia,Mangroves,Private sector,Afforestation,,Increased income,Economic
+25,Shah et al,2022,India,South Asia,Asia,Mangroves,Local communities,,,Improved forest health,
+25,Shah et al,2022,India,South Asia,Asia,Mangroves,,,,Increased agricultural products and fish,
+26,Sinclair et al,2021,Australia,Australia,Australia,Seagrass meadows,Local communities,Replanting,Ecological,Increased seagrass area,Ecosystem health
+26,Sinclair et al,2021,Australia,Australia,Australia,Seagrass meadows,Policy-makers,,,,
+26,Sinclair et al,2021,Australia,Australia,Australia,Seagrass meadows,Scientists,,,,
+26,Sinclair et al,2021,Australia,Australia,Australia,Seagrass meadows,Private sector,,,,
+27,Sudtongkong et al,2008,Thailand,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Improved forest health,Ecosytem health
+27,Sudtongkong et al,2008,Thailand,Southeast Asia,Asia,Mangroves,Private sector,,,Decreased conflict,Social
+27,Sudtongkong et al,2008,Thailand,Southeast Asia,Asia,Mangroves,Policy-makers,,,,
+28,Tan Phong et al,2017,Indonesia,Southeast Asia,Asia,Mangroves,Local communities,Reforestation,Ecological,Increased forest area,Ecosystem health
+28,Tan Phong et al,2017,Indonesia,Southeast Asia,Asia,Mangroves,Policy-makers,Afforestation,,,
+28,Tan Phong et al,2017,Indonesia,Southeast Asia,Asia,Mangroves,Private sector,,,,
+29,Veettil et al,2018,Myanmar,Southeast Asia,Asia,Mangroves,Local communities,Reforestation,Ecological,Increased forest area,Ecosystem health
+29,Veettil et al,2018,Myanmar,Southeast Asia,Asia,Mangroves,Policy-makers,,,,
+29,Veettil et al,2018,Myanmar,Southeast Asia,Asia,Mangroves,Private sector,,,,
+30,Walton et al,2006,Phillipines,Southeast Asia,Asia,Mangroves,Local communities,Reforestation,Ecological,Increased forest area,Ecosytem health
+30,Walton et al,2006,Phillipines,Southeast Asia,Asia,Mangroves,Private sector,,,Increased income,Economic
+30,Walton et al,2006,Phillipines,Southeast Asia,Asia,Mangroves,Policy-makers,,,Improved forest health,
+31,Zaldívar-Jiménez et al,2017,Mexico,North America,North America,Mangroves,Policy-makers,Hydrological restoration,Ecological,Increased forest area,Ecosytem health
+31,Zaldívar-Jiménez et al,2017,United States,North America,North America,Mangroves,Local communities,,,Improved forest health,Economic
+31,Zaldívar-Jiménez et al,2017,,North America,North America,Mangroves,,,,Increased income,Social
+31,Zaldívar-Jiménez et al,2017,,North America,North America,Mangroves,,,,Decreased conflict,
+32,Iwasaki et al,2017,Indonesia,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,No significant improvement,Ecosystem health
+32,Iwasaki et al,2017,Indonesia,Southeast Asia,Asia,Mangroves,Private sector,Reforestation,Ecological,,
+33,Rodriguez et al,2018,Ecuador,South America,South America,Mangroves,Policy-makers,Community-based land use,Management and Use,Increased forest area,Ecosytem health
+33,Rodriguez et al,2018,Ecuador,South America,South America,Mangroves,Local communities,Reforestation,Ecological,Implementation of sustainable practices,Sustainability
+34,Wickramasinghe,2017,Sri Lanka,South Asia,Asia,Mangroves,Local communities,Reforestation,Ecological,Increased income,Economic
+34,Wickramasinghe,2017,Sri Lanka,South Asia,Asia,Mangroves,Private sector,,,Increased forest area,Ecosytem health
+34,Wickramasinghe,2017,Sri Lanka,South Asia,Asia,Mangroves,Policy-makers,,,,
+35,Arumugam et al,2021,Senegal,West Africa,Africa,Mangroves,Local communities,Community-based land use,Management and Use,Decreased forest area,Ecosystem health
+36,Begum et al,2021,Bangladesh,South Asia,Asia,Mangroves,Policy-makers,Joint land management,Management and Use,Implementation of sustainable practices,Sustainability
+36,Begum et al,2021,Bangladesh,South Asia,Asia,Mangroves,Local communities,,,,
+36,Begum et al,2021,Bangladesh,South Asia,Asia,Mangroves,Private sector,,,,
+37,Beitl et al,2019,Ecuador,South America,South America,Mangroves,Local communities,Community-based land use,Ecological,Increased forest area,Ecosytem health
+37,Beitl et al,2019,Ecuador,South America,South America,Mangroves,Local communities,Reforestation,Management and Use,Decreased conflict,Social
+38,Damastuti et al,2022,Indonesia,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased forest area,Ecosystem health
+38,Damastuti et al,2022,Indonesia,Southeast Asia,Asia,Mangroves,Policy-makers,Reforestation,Ecological,Improved forest health,
+38,Damastuti et al,2022,Indonesia,Southeast Asia,Asia,Mangroves,Private sector,,,,
+39,Datta et al,2010,India,South Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Improved forest health,Ecosystem health
+39,Datta et al,2010,India,South Asia,Asia,Mangroves,Policy-makers,,,,
+39,Datta et al,2010,India,South Asia,Asia,Mangroves,Private sector,,,,
+40,Flitcroft et al,2016,United States,North America,North America,Salt marshes,Policy-makers,Replanting,Ecological,Improved marsh health,Ecosystem health
+40,Flitcroft et al,2016,United States,North America,North America,Salt marshes,Local communities,Hydrological restoration,,,
+40,Flitcroft et al,2016,United States,North America,North America,Salt marshes,Scientists,,,,
+40,Flitcroft et al,2016,United States,North America,North America,Salt marshes,Private sector,,,,
+41,Frank et al,2017,Kenya,East Africa,Africa,Mangroves,Local communities,Community-based land use,Ecological,Implementation of sustainable practices,Sustainability
+41,Frank et al,2017,Kenya,East Africa,Africa,Mangroves,Local communities,Reforestation,Management and Use,,
+42,Geoghegan et al,2002,St. Lucia,The Caribbean,North America,Mangroves,Local communities,Community-based land use,Management and Use,Increased income,Economic
+42,Geoghegan et al,2002,St. Lucia,The Caribbean,North America,Mangroves,Policy-makers,,,Implementation of sustainable practices,Sustainability
+43,Gevana et al,2018,Phillipines,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased forest area,Ecosystem health
+43,Gevana et al,2018,Phillipines,Southeast Asia,Asia,Mangroves,Private sector,Reforestation,Ecological,,
+44,Gilman et al,2007,American Samoa,Pacific Islands,Oceania,Mangroves,Local communities,Reforestation,Ecological,Increased forest area,Ecosystem health
+44,Gilman et al,2007,American Samoa,Pacific Islands,Oceania,Mangroves,Scientists,,,,
+45,Kairu et al,2020,Kenya,East Africa,Africa,Mangroves,Local communities,Community-based land use,Management and Use,Higher forest area,Ecosystem health
+45,Kairu et al,2020,Kenya,East Africa,Africa,Mangroves,,,,Improved forest health,
+46,Le,2007,Vietnam,Southeast Asia,Asia,Mangroves,Local communities,Reforestation,Ecological,Increased conflict,Social
+46,Le,2007,Vietnam,Southeast Asia,Asia,Mangroves,Policy-makers,,,Increased forest area,Ecosytem health
+47,Pham et al,2016,Vietnam,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Improved forest health,Ecosytem health
+47,Pham et al,2016,Vietnam,Southeast Asia,Asia,Mangroves,Policy-makers,,,Enhanced coastal resilience,Ecosystem functions + services
+48,Pulhin et al,2017,Phillipines,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased forest area,Ecosystem health
+48,Pulhin et al,2017,Phillipines,Southeast Asia,Asia,Mangroves,Policy-makers,Reforestation,Ecological,,
+48,Pulhin et al,2017,Phillipines,Southeast Asia,Asia,Mangroves,Private sector,,,,
+49,Rahman,2022,Bangladesh,South Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased income,Economic
+49,Rahman,2022,Bangladesh,South Asia,Asia,Mangroves,Private sector,,,Exacerbated unsustainable activity,Sustainability
+50,Salmo et al,2007,Phillipines,Southeast Asia,Asia,Mangroves,Local communities,Reforestation,Ecological,Decreased conflict,Social
+50,Salmo et al,2007,Phillipines,Southeast Asia,Asia,Mangroves,Policy-makers,,,,
+51,Shunula,2002,Tanzania,East Africa,Africa,Mangroves,Local communities,Reforestation,Ecological,Enhanced coastal resilience,Ecosystem health
+51,Shunula,2002,Tanzania,East Africa,Africa,Mangroves,,,,Improved forest health,
+52,Singgalen,2020,Indonesia,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Implementation of sustainable practices,Sustainability
+52,Singgalen,2020,Indonesia,Southeast Asia,Asia,Mangroves,Local communities,Reforestation,Ecological,,
+53,Sumarmi et al,2021,Indonesia,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased forest area,Ecosytem health
+53,Sumarmi et al,2021,Indonesia,Southeast Asia,Asia,Mangroves,Policy-makers,Reforestation,Ecological,Enhanced aesthetics,Ecosystem functions + services
+53,Sumarmi et al,2021,Indonesia,Southeast Asia,Asia,Mangroves,,,,Increased income,Economic
+54,Valenzuela et al,2020,Phillipines,Southeast Asia,Asia,Mangroves,Local communities,Community-based land use,Management and Use,Increased income,Economic
+54,Valenzuela et al,2020,Phillipines,Southeast Asia,Asia,Mangroves,Policy-makers,Reforestation,Ecological,,
+55,Wells et al,2010,Tanzania,East Africa,Africa,Mangroves,Local communities,Reforestation,Ecological,Increased forest area,Ecosystem health
+55,Wells et al,2010,Tanzania,East Africa,Africa,Mangroves,Policy-makers,,,,
